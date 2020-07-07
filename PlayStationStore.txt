@@ -1,0 +1,77 @@
+
+
+***************PlayStationStore*****************
+Nombre del juego: 
+The Elder Scrolls Online: Greymoor Collector's Edition
+
+Precio: US$79.99
+
+
+***************PlayStationStore*****************
+Nombre del juego: 
+Wolfenstein: Alt History Collection
+
+Precio: US$79.99
+
+
+***************PlayStationStore*****************
+Nombre del juego: 
+F1 2020 - Deluxe Schumacher Edition
+
+Precio: US$69.99
+
+
+***************PlayStationStore*****************
+Nombre del juego: 
+Ghost of Tsushima Digital Deluxe Edition
+
+Precio: US$69.99
+
+
+***************PlayStationStore*****************
+Nombre del juego: 
+F1 2020 - Seventy Edition
+
+Precio: US$59.99
+
+
+***************PlayStationStore*****************
+Nombre del juego: 
+Ghost of Tsushima
+
+Precio: US$59.99
+
+
+***************PlayStationStore*****************
+Nombre del juego: 
+Hunting Simulator 2 Bear Hunter Day One Edition
+
+Precio: US$59.99
+
+
+***************PlayStationStore*****************
+Nombre del juego: 
+The Elder Scrolls Online: Greymoor
+
+Precio: US$59.99
+
+
+***************PlayStationStore*****************
+Nombre del juego: 
+Edición Digital Deluxe de Marvel's Iron Man VR
+
+Precio: US$49.99
+
+
+***************PlayStationStore*****************
+Nombre del juego: 
+Hunting Simulator 2 Day One Edition
+
+Precio: US$49.99
+
+
+***************PlayStationStore*****************
+Nombre del juego: 
+Dungeons 3 - Complete Collection
+
+Precio: US$39.99
