@@ -11,12 +11,17 @@ archivoPlayStation = "/Users/luiss/Desktop/Scrap/PlayStationStore.txt"
 def extraerDatosMetacritic():
     url = 'https://www.metacritic.com/browse/games/release-date/available/pc/metascore'
     url1 = 'https://www.metacritic.com/browse/games/release-date/available/pc/metascore?page=1'
+    url2 = 'https://www.metacritic.com/browse/games/release-date/available/pc/metascore?page=2'
     user_agent = {'User-agent': 'Mozilla/5.0'}
     cont1 = 0
-    cont = 97
+    cont = 0
     while (cont1<= 2):
         if(cont1 == 1):
             response = requests.get(url1, headers=user_agent)
+            soup = BeautifulSoup(response.text, 'html.parser')
+            cont = 0
+        elif (cont1 == 2):
+            response = requests.get(url2, headers=user_agent)
             soup = BeautifulSoup(response.text, 'html.parser')
             cont = 0
         else:
